@@ -33,3 +33,27 @@ This repository contains the capstone project for Section A, Group 7, focusing o
 ## Authors
 
 Section A, Group 7
+- Suhaani Garg
+- Krishna dave
+- Keshav
+- Sathvik
+- Anushka
+- Arya Pandey
+- Hardik Maheshwari
+
+## Contributions
+### Krishna Dave
+#### Driver Risk Analysis
+
+Interactive Tableau dashboard analyzing how driver demographics 
+affect road accident severity.
+
+### Covers
+- Age vs Severity
+- Driving Experience vs Severity  
+- Gender vs Severity
+- Age × Experience Heatmap
+- Weekend vs Weekday Risk
+
+### Key Insight
+Inexperienced and young drivers form the highest-risk segment across all severity levels.
