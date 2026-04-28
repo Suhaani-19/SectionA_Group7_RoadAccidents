@@ -102,3 +102,27 @@ Contributed across multiple stages of the project including data preprocessing, 
 
 ### Key Insight
 Accurate data preprocessing combined with well-structured dashboards improves the clarity, reliability, and interpretability of accident analysis, enabling better understanding of risk patterns and contributing factors.
+
+### Arya Pandey
+#### Visualization Design, Dashboard Development & Integration
+
+Led the design and development of interactive Tableau dashboards, focusing on transforming processed data into clear, analytical visualizations. Played a key role in structuring dashboards, refining chart selection, and ensuring consistency across all visual outputs.
+
+### Covers
+- Designed and developed Severity Overview Dashboard
+- Built Time & Pattern Analysis Dashboard
+- Created key visualizations including:
+  - Accident Frequency by Hour
+  - Day of Week Trends
+  - Hour × Day Heatmap
+  - Severity by Weather Conditions
+  - Road Surface vs Severity
+  - Casualties vs Severity
+- Applied effective visualization techniques for better analytical clarity
+- Standardized color schemes, sorting, and labeling across dashboards
+- Integrated multiple dashboards into a unified Tableau workbook
+- Resolved data source and extract issues during collaboration
+- Ensured dashboards follow a clear storytelling structure
+
+### Key Insight
+Accident patterns are highly time-dependent, with clear peaks during rush hours and consistent high-risk time windows. Combining temporal trends with environmental and severity analysis shows that accidents follow predictable patterns influenced by human behavior and traffic conditions.
