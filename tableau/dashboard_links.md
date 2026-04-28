@@ -4,6 +4,10 @@ This project includes multiple interactive dashboards built using Tableau Public
 
 ## 🔗 Dashboard Access
 
+### Total Dashboard 
+
+* https://public.tableau.com/app/profile/arya.pandey1785/viz/FINALDVA/DVAProject?publish=yes
+
 ### 1. Accident Severity Analysis
 
 * https://public.tableau.com/app/profile/krishna.dave3250/viz/FINALDVA1/Dashboard1
