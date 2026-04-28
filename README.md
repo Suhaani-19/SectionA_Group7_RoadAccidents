@@ -48,11 +48,6 @@ Section A, Group 7
 Interactive Tableau dashboard analyzing how driver demographics 
 affect road accident severity.
 
-### Anushka Tyagi
-#### Tableau Dashboards and PPT
-
-Designed three interactive Tableau dashboards to analyze the data and summarized the findings in our final presentation (PPT).
-
 ### Covers
 - Age vs Severity
 - Driving Experience vs Severity  
@@ -62,3 +57,17 @@ Designed three interactive Tableau dashboards to analyze the data and summarized
 
 ### Key Insight
 Inexperienced and young drivers form the highest-risk segment across all severity levels.
+
+
+### Anushka Tyagi
+#### Road Accident Dashboard Analysis
+Designed three interactive Tableau dashboards to analyze accident severity, driver risk, and overall incident patterns, and presented the insights through a PPT.
+
+### Covers
+- Accident Severity Analysis
+- Driver Profile & Risk Patterns
+- Accident Risk & Contributing Factors
+- Severity distribution across different conditions
+
+### Key Insight
+Accident severity and risk are heavily influenced by driver profiles and external conditions, with clear patterns across different scenarios.
