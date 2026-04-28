@@ -4,19 +4,19 @@ This project includes multiple interactive dashboards built using Tableau Public
 
 ## 🔗 Dashboard Access
 
-### 1. Time & Location Analysis
+### 1. Accident Severity Analysis
 
 * https://public.tableau.com/app/profile/krishna.dave3250/viz/FINALDVA1/Dashboard1
 
-### 2. Accident Risk & Severity Analysis
+### 2. Driver Profile & Incident Risk Analysis
 
 * https://public.tableau.com/app/profile/krishna.dave3250/viz/FINALDVA1/Dashboard2
 
-### 3. Driver Profile & Incident Risk Analysis
+### 3. Accident Risk & Severity Analysis
 
 * https://public.tableau.com/app/profile/krishna.dave3250/viz/FINALDVA1/Dashboard3
 
-### 4. Comprehensive Traffic Insights Dashboard
+### 4. Time & Location Analysis
 
 * https://public.tableau.com/app/profile/krishna.dave3250/viz/FINALDVA1/Dashboard4
 
