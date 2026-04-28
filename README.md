@@ -86,3 +86,19 @@ Covers
 
 ### Key Insight
 Clean and well-structured data enabled accurate identification of accident patterns, highlighting that road conditions, vehicle movement, and collision types play a major role in severity outcomes.
+
+### Suhaani Garg
+#### Data Preparation, Dashboard Development & Report Contribution
+
+Contributed across multiple stages of the project including data preprocessing, dashboard development, and reporting. Played a key role in refining datasets, improving dashboard quality, and ensuring consistency in the final analysis.
+
+### Covers
+- Assisted in data cleaning and preprocessing using Google Colab (Python)
+- Contributed to final dataset preparation and load pipeline in Python (`05_final_load_prep.ipynb`)
+- Designed and developed Dashboard 4 in Tableau
+- Improved dashboard structure, layout, and interactivity
+- Ensured data accuracy and consistency across visualizations
+- Assisted in final project report and documentation
+
+### Key Insight
+Accurate data preprocessing combined with well-structured dashboards improves the clarity, reliability, and interpretability of accident analysis, enabling better understanding of risk patterns and contributing factors.
