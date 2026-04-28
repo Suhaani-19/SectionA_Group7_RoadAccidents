@@ -48,6 +48,11 @@ Section A, Group 7
 Interactive Tableau dashboard analyzing how driver demographics 
 affect road accident severity.
 
+### Anushka Tyagi
+#### Tableau Dashboards and PPT
+
+Designed three interactive Tableau dashboards to analyze the data and summarized the findings in our final presentation (PPT).
+
 ### Covers
 - Age vs Severity
 - Driving Experience vs Severity  
