@@ -61,7 +61,7 @@ Inexperienced and young drivers form the highest-risk segment across all severit
 
 ### Anushka Tyagi
 #### Road Accident Dashboard Analysis
-Designed three interactive Tableau dashboards to analyze accident severity, driver risk, and overall incident patterns, and presented the insights through a PPT.
+Designed interactive Tableau dashboards to analyze accident severity, driver risk, and overall incident patterns, and presented the insights through a PPT.
 
 ### Covers
 - Accident Severity Analysis
@@ -71,3 +71,18 @@ Designed three interactive Tableau dashboards to analyze accident severity, driv
 
 ### Key Insight
 Accident severity and risk are heavily influenced by driver profiles and external conditions, with clear patterns across different scenarios.
+
+### Sathvik Koriginja
+#### Data Cleaning & Dashboard Development
+
+Handled data preparation and visualization for the project. Cleaned, transformed, and structured raw accident data to ensure accuracy and usability for analysis, and built an interactive Tableau dashboard to present key insights.
+
+Covers
+- Data extraction and preprocessing
+- Handling missing values and inconsistencies
+- Feature engineering for analysis
+- Preparing final dataset for visualization
+- Building Accident Risk & Severity Dashboard in Tableau
+
+### Key Insight
+Clean and well-structured data enabled accurate identification of accident patterns, highlighting that road conditions, vehicle movement, and collision types play a major role in severity outcomes.
