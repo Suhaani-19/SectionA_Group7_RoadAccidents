@@ -36,7 +36,7 @@ Section A, Group 7
 - Suhaani Garg
 - Krishna dave
 - Keshav
-- Sathvik
+- Sathvik Koriginja
 - Anushka
 - Arya Pandey
 - Hardik Maheshwari
