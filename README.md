@@ -22,7 +22,7 @@
 | Role | Name | Portfolio |
 |---|---|---|
 | Project Lead | Suhaani Garg | [🌐 Portfolio](https://suhaani-19.github.io/Data_Analytics_Portfolio/) |
-| Strategy Lead | Krishna Dave | — |
+| Strategy Lead | Krishna Dave | [🌐 Portfolio](https://krishna-dave206.github.io/DVAPortfolio/) |
 | ETL Lead | Sathvik Koriginja | [🌐 Portfolio](https://sathvik89.github.io/DVA_Portfollio/) |
 | Analysis Lead | Hardik Maheshwari | [🌐 Portfolio](https://hardikgenone.github.io/dva-portfolio/) |
 | PPT & Quality Lead | Anushka Tyagi | [🌐 Portfolio](https://anu-ushka.github.io/DataAnalytics_Portfolio/) |
