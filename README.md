@@ -376,6 +376,8 @@ Built an interactive Tableau dashboard analyzing how driver demographics affect 
 #### Key Insight
 Inexperienced and young drivers form the highest-risk segment across all severity levels.
 
+🌐 [DVA Portfolio](https://krishna-dave206.github.io/DVAPortfolio/)
+
 ---
 
 ### Anushka Tyagi
