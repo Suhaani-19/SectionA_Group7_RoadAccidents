@@ -44,6 +44,24 @@
 - Redundant or weak contribution to KPIs  
 - Would introduce noise in visualization and reduce model reliability  
 
+| Column Name                     | Justification                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|
+| Educational_level              | Limited direct impact on actionable decision-making for accident prevention  |
+| Vehicle_driver_relation        | Does not influence infrastructure or policy-level decisions                  |
+| Owner_of_vehicle               | Minimal relevance to accident patterns or severity outcomes                 |
+| Service_year_of_vehicle        | Low impact compared to more critical safety factors                         |
+| Defect_of_vehicle              | Inconsistent and unreliable for high-level analysis                         |
+| Road_surface_type              | Less informative than Road_surface_conditions                               |
+| Number_of_vehicles_involved    | Redundant with collision type and casualty count                            |
+| Casualty_class                 | Focus is on accident-level, not individual roles                            |
+| Sex_of_casualty                | Low relevance for policy or infrastructure decisions                        |
+| Age_band_of_casualty           | Limited contribution to reducing accident occurrence                        |
+| Casualty_severity              | Redundant with Accident_severity                                            |
+| Work_of_casuality              | Not useful for actionable road safety insights                              |
+| Fitness_of_casuality           | Inconsistent and not relevant for macro-level decisions                     |
+| Pedestrian_movement            | Too granular for overall dashboard insights                                 |
+
+
 ---
 
 ## Column Definitions
