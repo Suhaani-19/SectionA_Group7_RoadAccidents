@@ -126,3 +126,21 @@ Led the design and development of interactive Tableau dashboards, focusing on tr
 
 ### Key Insight
 Accident patterns are highly time-dependent, with clear peaks during rush hours and consistent high-risk time windows. Combining temporal trends with environmental and severity analysis shows that accidents follow predictable patterns influenced by human behavior and traffic conditions.
+
+
+### H Maheshwari
+#### EDA & Statistical Analysis Lead
+
+Led the analytical phase of the project by conducting in-depth Exploratory Data Analysis (EDA), statistical evaluation, and KPI computation using Python.
+
+### Covers
+- Performed comprehensive **Exploratory Data Analysis (EDA)** on the cleaned dataset *(Notebook 03)*  
+- Conducted **statistical analysis and pattern validation** *(Notebook 04)*  
+- Analyzed relationships between features and accident severity using **univariate and bivariate techniques**  
+- Computed key **KPIs and risk indicators** for decision-making  
+- Identified **temporal, behavioral, and environmental patterns** influencing accident severity  
+- Generated insights to support **dashboard design and final reporting**
+
+### Key Insight
+Accident severity is driven more by **behavioral factors (driver actions, experience, and timing)** than environmental conditions, with clear risk spikes during **evening hours and weekends**, and higher severity associated with specific driver and collision patterns.
+
