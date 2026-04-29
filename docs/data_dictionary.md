@@ -1,5 +1,7 @@
 # Data Dictionary
 
+---
+
 ## Dataset Summary
 
 | Item | Details |
@@ -7,8 +9,40 @@
 | Dataset name | Road Traffic Accident (RTA) Dataset |
 | Source | Kaggle / Government Road Safety Data |
 | Raw file name | RTA Dataset.csv |
-| Last updated | Not specified |
+| Cleaned file name | CLEANED Dataset.csv |
+| Raw dataset size | 12,316 rows × 32 columns |
+| Cleaned dataset size | 12,295 rows × 22 columns |
+| Last updated | April 2026 |
 | Granularity | One row per accident |
+
+---
+
+## Data Cleaning Summary
+
+- **Rows removed:** 21  
+  - Removed due to missing or inconsistent critical values (e.g., accident severity, time, driver details)
+
+- **Columns removed:**  
+  - Age_band_of_casualty  
+  - Casualty_class  
+  - Casualty_severity  
+  - Defect_of_vehicle  
+  - Educational_level  
+  - Fitness_of_casuality  
+  - Number_of_vehicles_involved  
+  - Owner_of_vehicle  
+  - Pedestrian_movement  
+  - Road_surface_type  
+  - Service_year_of_vehicle  
+  - Sex_of_casualty  
+  - Vehicle_driver_relation  
+  - Work_of_casuality  
+
+### Why columns were removed:
+- High percentage of missing values (30–40%+)  
+- Low relevance to key analysis (severity, driver behavior, road conditions)  
+- Redundant or weak contribution to KPIs  
+- Would introduce noise in visualization and reduce model reliability  
 
 ---
 
@@ -50,12 +84,17 @@
 
 ## Data Quality Notes
 
-- Missing values replaced using:
-  - Mode for categorical columns
+- Dataset reduced from **12,316 to 12,295 rows** with minimal data loss  
+- Columns reduced from **32 to 22**, improving focus and usability  
+- Missing values handled using:
+  - Mode for categorical columns  
   - Median for numerical columns  
-- Standardized inconsistent values (unknown, NA, - → null)  
-- All text converted to lowercase and trimmed  
+- High-null columns were removed to ensure reliability  
+- All categorical values standardized (lowercase, trimmed, cleaned)  
 - Removed duplicate records  
-- Removed invalid entry: "rural village areasoffice areas"  
-- Time conversion caused minor nulls (handled)  
-- Dataset is imbalanced (majority = slight injury)  
+- Removed invalid entry: **"rural village areasoffice areas"**  
+- Time conversion introduced minor nulls, which were handled  
+- Dataset is **imbalanced** (majority cases = slight injury)  
+- Feature engineering applied for better trend and KPI analysis  
+
+---
