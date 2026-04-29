@@ -242,22 +242,6 @@ SectionA_Group7_RoadAccidents/
 
 ---
 
-## Contribution Matrix
-
-All claims are verifiable through GitHub Insights, pull request history, and committed files.
-
-| Team Member | Role | Dataset & Sourcing | ETL & Cleaning | EDA & Analysis | Statistical Analysis | Tableau Dashboard | Report Writing | PPT & Viva |
-|---|---|---|---|---|---|---|---|---|
-| Suhaani Garg | Project Lead | ✅ | ✅ | | | ✅ | ✅ | |
-| Krishna Dave | Strategy Lead | ✅ | | | | ✅ | ✅ | |
-| Sathvik Koriginja | ETL Lead | ✅ | ✅ | | | | | |
-| Hardik Maheshwari | Analysis Lead | | | ✅ | ✅ | | | |
-| Anushka Tyagi | PPT & Quality Lead | | | | | ✅ | | ✅ |
-| Keshav Rajput | Data Lead | | | ✅ | | | ✅ | |
-| Arya Pandey | Visualization Lead | | | ✅ | ✅ | | | |
-
-_Declaration: We confirm that the above contribution details are accurate and verifiable through GitHub Insights, PR history, and submitted artifacts._
-
 ---
 
 ## Individual Contributions
