@@ -1,10 +1,10 @@
-# 📊 Tableau Dashboard Links
+# Tableau Dashboard Links
 
 This project includes multiple interactive dashboards built using Tableau Public.
 
-## 🔗 Dashboard Access
+## Dashboard Access
 
-### 🔷 Total Dashboard 
+### Total Dashboard 
 
 * [View Full Project Dashboard](https://public.tableau.com/app/profile/sathvik.koriginja/viz/AccidentSeverityAnanlysis/Dashboard1)
 
@@ -26,7 +26,7 @@ This project includes multiple interactive dashboards built using Tableau Public
 
 ---
 
-## ⚙️ Features
+## Features
 
 * Interactive filters (e.g., Time Period, Area, Day of Week, Driver Attributes)
 * Dynamic KPIs that update based on user selection
@@ -34,7 +34,7 @@ This project includes multiple interactive dashboards built using Tableau Public
 
 ---
 
-## 📁 Additional Resources
+## Additional Resources
 
 * Screenshots available in: `tableau/screenshots/`
 * Built using Tableau Public (no license required)
