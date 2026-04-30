@@ -4,25 +4,25 @@ This project includes multiple interactive dashboards built using Tableau Public
 
 ## 🔗 Dashboard Access
 
-### Total Dashboard 
+### 🔷 Total Dashboard 
 
-* https://public.tableau.com/app/profile/arya.pandey1785/viz/FINALDVA/DVAProject?publish=yes
+* [View Full Project Dashboard](https://public.tableau.com/app/profile/sathvik.koriginja/viz/AccidentSeverityAnanlysis/Dashboard1)
 
 ### 1. Accident Severity Analysis
 
-* https://public.tableau.com/app/profile/krishna.dave3250/viz/FINALDVA1/Dashboard1
+* [Open Dashboard](https://public.tableau.com/app/profile/sathvik.koriginja/viz/AccidentSeverityAnanlysis/Dashboard1)
 
 ### 2. Driver Profile & Incident Risk Analysis
 
-* https://public.tableau.com/app/profile/krishna.dave3250/viz/FINALDVA1/Dashboard2
+* [Open Dashboard](https://public.tableau.com/app/profile/sathvik.koriginja/viz/AccidentSeverityAnanlysis/Dashboard3)
 
 ### 3. Accident Risk & Severity Analysis
 
-* https://public.tableau.com/app/profile/krishna.dave3250/viz/FINALDVA1/Dashboard3
+* [Open Dashboard](https://public.tableau.com/app/profile/sathvik.koriginja/viz/AccidentSeverityAnanlysis/Dashboard2)
 
 ### 4. Time & Location Analysis
 
-* https://public.tableau.com/app/profile/krishna.dave3250/viz/FINALDVA1/Dashboard4
+* [Open Dashboard](https://public.tableau.com/app/profile/sathvik.koriginja/viz/AccidentSeverityAnanlysis/Dashboard4)
 
 ---
 
