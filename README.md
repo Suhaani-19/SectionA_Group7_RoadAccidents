@@ -94,7 +94,7 @@ For full column definitions, see [`docs/data_dictionary.md`](docs/data_dictionar
 
 | Item | Details |
 |---|---|
-| **Full Dashboard URL** | [View on Tableau Public](https://public.tableau.com/app/profile/sathvik.koriginja/viz/AccidentSeverityAnanlysis/Dashboard1) |
+| **Full Dashboard URL** | [View on Tableau Public](https://public.tableau.com/views/AccidentSeverityAnanlysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 | **Dashboard 1 — Accident Severity Analysis** | [View](https://public.tableau.com/app/profile/sathvik.koriginja/viz/AccidentSeverityAnanlysis/Dashboard1) |
 | **Dashboard 2 — Driver Profile & Risk** | [View](https://public.tableau.com/app/profile/krishna.dave3250/viz/FINALDVA1/Dashboard2) |
 | **Dashboard 3 — Accident Risk & Severity** | [View](https://public.tableau.com/app/profile/krishna.dave3250/viz/FINALDVA1/Dashboard3) |
